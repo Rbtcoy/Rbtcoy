@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rbtcoy (Robert Coy
+- 👋 Hi, I’m @Rbtcoy (Robert Coy)
 - 👀 I’m interested in backend and axiomatic code.
 - 🌱 I’m currently learning python and data science.
 - 💞️ I’m looking to collaborate on anything, especially something I can learn from!
